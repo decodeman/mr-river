@@ -107,10 +107,10 @@
   },
   "media": {
     "ordered_photos": [
-      {"src": "assets/mr-river-01-kitchen-selfie.svg", "alt": "Mr. River smiling in a kitchen and desk setting"},
+      {"src": "assets/mr-river-01-kitchen-selfie.jpg", "alt": "Mr. River smiling in a kitchen and desk setting"},
       {"src": "assets/mr-river-02-waterski.svg", "alt": "Mr. River waterskiing"},
       {"src": "assets/mr-river-03-hand-on-chin.svg", "alt": "Mr. River smiling with his hand on his chin"},
-      {"src": "assets/mr-river-04-jeep.svg", "alt": "Mr. River beside a Jeep overlooking the water"}
+      {"src": "assets/mr-river-04-jeep.jpg", "alt": "Mr. River beside a Jeep overlooking the water"}
     ],
     "children_photos_publicly_used": false
   },

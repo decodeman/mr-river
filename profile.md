@@ -6,7 +6,7 @@
 
 **Deep, playful, physically alive, generative, and built for unusually close everyday partnership.**
 
-<p align="center"><img src="assets/mr-river-01-kitchen-selfie.svg" alt="Mr. River smiling in a kitchen and desk setting" width="420"></p>
+<p align="center"><img src="assets/mr-river-01-kitchen-selfie.jpg" alt="Mr. River smiling in a kitchen and desk setting" width="420"></p>
 
 ## THE 60-SECOND VERSION
 ### Swings, rabbit holes, and nowhere else to be
@@ -95,7 +95,7 @@ I don’t want a relationship that feels like two adults administering a househo
 
 I want there to be a lot of play in it.
 
-<p align="center"><img src="assets/mr-river-04-jeep.svg" alt="Mr. River beside a Jeep overlooking the water" width="420"></p>
+<p align="center"><img src="assets/mr-river-04-jeep.jpg" alt="Mr. River beside a Jeep overlooking the water" width="420"></p>
 
 ## HOW I USE MY LIFE
 ### Low theater, high activation when something matters
