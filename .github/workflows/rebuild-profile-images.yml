@@ -20,7 +20,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat .tmp-image-build/v2/k1/part-* | base64 --decode > assets/mr-river-01-kitchen-selfie.jpg
+          cat .tmp-image-build/v2/k1/part-00 .tmp-image-build/v2/k1/part-01a .tmp-image-build/v2/k1/part-01b .tmp-image-build/v2/k1/part-02 | base64 --decode > assets/mr-river-01-kitchen-selfie.jpg
           cat .tmp-image-build/v2/k4/part-* | base64 --decode > assets/mr-river-04-jeep.jpg
           test -s assets/mr-river-01-kitchen-selfie.jpg
           test -s assets/mr-river-04-jeep.jpg
