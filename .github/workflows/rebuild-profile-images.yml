@@ -1,0 +1,48 @@
+name: Repair profile images
+
+on:
+  push:
+    paths:
+      - '.github/workflows/rebuild-profile-images.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Rebuild JPEG assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .tmp-image-build/q60/k1/part-* | base64 --decode > assets/mr-river-01-kitchen-selfie.jpg
+          cat .tmp-image-build/q60/k4/part-* | base64 --decode > assets/mr-river-04-jeep.jpg
+          test -s assets/mr-river-01-kitchen-selfie.jpg
+          test -s assets/mr-river-04-jeep.jpg
+          file assets/mr-river-01-kitchen-selfie.jpg | grep -q 'JPEG image data'
+          file assets/mr-river-04-jeep.jpg | grep -q 'JPEG image data'
+
+      - name: Point profile pages at repaired assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r -d '' f; do
+            sed -i 's/mr-river-01-kitchen-selfie\.svg/mr-river-01-kitchen-selfie.jpg/g; s/mr-river-04-jeep\.svg/mr-river-04-jeep.jpg/g' "$f"
+          done < <(find . -type f \( -name '*.html' -o -name '*.md' -o -name '*.json' -o -name '*.txt' -o -name '*.xml' \) -print0)
+          rm -f assets/mr-river-01-kitchen-selfie.svg assets/mr-river-04-jeep.svg
+          rm -rf .tmp-image-build
+
+      - name: Commit repaired public assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Kindred Profile Sync'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Repair kitchen and Jeep profile images'
+          git push
