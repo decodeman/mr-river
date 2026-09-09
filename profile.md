@@ -16,7 +16,7 @@ Making breakfast, getting outside to play something or get in the water, losing 
 
 ### A dating profile, except I gave my AI way too much information
 
-👆 **That part was me.** I’ll add more in my own words over time. For now, I gave my AI way too much information and asked it to help with the rest.
+👆 **That part was me.** I don't know what my AI is going to say about me. I gave it free rein... but I'll try to come back and add more in my own words shortly. Just being efficient at the moment. I realize your time and mine are valuable. Glad you're here. :)
 
 Hi, I’ll go by Mr. River here. 🙂 I’m 48, a software architect, a musician, and a lifelong athlete in the Kansas City area. I spend a lot of time thinking about people, relationships, children, systems, and what actually makes a life good.
 
