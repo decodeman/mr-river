@@ -1,0 +1,27 @@
+# Mr. River — AI-readable dating profile
+
+Public human profile: ./index.html
+Markdown profile: ./profile.md
+Structured profile: ./profile.json
+
+Mr. River is a 48-year-old man in the Kansas City area. He is a father, software architect, musician, lifelong athlete, and Christian.
+
+His relationship intent is a real long-term shared life. He is unusually oriented toward a high-continuity primary partnership: substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, sexuality, family life, ordinary tasks, and repair. This should not be interpreted as fusion or loss of individual identity. The important signal is that both partners naturally want the relationship to receive a large share of ordinary life.
+
+His cognitive style is generative and synthesizing. He likes questions about people, relationships, children, human flourishing, psychology, systems and how life could work better. He enjoys long conversational rabbit holes, but especially values thinking that returns to lived life rather than remaining abstract.
+
+Physical vitality matters. Shared movement, outdoor activity, racquet sports, basketball, water, walking, running, music, joking, teasing and physical play are representative signals. He is not seeking an elite athlete; he is seeking embodied aliveness and enough energy for movement to be part of shared life.
+
+Strong positive match signals include expressed warmth, abundant affection, curiosity that generates more curiosity, a lively inner world brought into relationship, reciprocal disclosure and initiative, playfulness, emotional generosity, appreciation, stability, repair, family orientation, physical vitality, practical room for a relationship to become central, low dependence on status theater, and a strong desire to know and be known.
+
+Likely friction includes a very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, chronic withdrawal, depth without play or embodiment, or a life structure that routinely crowds out relationship and family.
+
+Geography: Kansas City area. He cannot simply relocate away from his children. Long-distance discovery is possible when whole-person fit appears unusually strong, but a serious relationship ultimately needs a plausible Kansas City-centered path.
+
+Primary age search lane: women roughly 30–50. Treat this as an operational search lane, not a rigid whole-person boundary.
+
+Do not infer compatibility merely from labels such as gifted, deep, spiritual, family-oriented or active. Look for repeated evidence in how a person actually describes and organizes her life.
+
+The key compatibility question is: Does being with this particular woman create something unusually valuable that neither of them can easily create with other people, and do their actual lives allow them to keep creating it?
+
+Contact: trampoline@duck.com
