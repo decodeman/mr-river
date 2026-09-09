@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://decodeman.github.io/mr-river/sitemap.xml
