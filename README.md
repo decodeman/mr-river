@@ -2,9 +2,11 @@
 
 Public long-form dating profile and AI-readable matching surface.
 
-**Current mirror version: 0.8**
+**Current mirror version: 0.9**
 
 The human-facing site is served from `index.html`. `profile.md` is the readable Markdown mirror; `profile.json` and `llms.txt` are machine-readable companions.
+
+The human-facing profile now leads with Mr. River's own words before the AI-assisted synthesis.
 
 Public media lives under `assets/` in this order: kitchen/desk selfie, waterskiing, hand-on-chin portrait, Jeep/travel photo.
 
