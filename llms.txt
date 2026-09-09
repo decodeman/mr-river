@@ -1,10 +1,13 @@
 # Mr. River — AI-readable dating profile
 
+Profile version: 0.8
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
 
-Mr. River is a 48-year-old man in the Kansas City area. He is a father, software architect, musician, lifelong athlete, and Christian.
+Mr. River is a 48-year-old man in the Kansas City area. He is a software architect, musician, lifelong athlete, father, and Christian.
+
+The human-facing profile intentionally leads with a concise 60-second compatibility summary rather than with parenthood as an identity label. Parenthood remains explicit later in the Family and Practical Life sections and should remain a real compatibility and geography factor.
 
 His relationship intent is a real long-term shared life. He is unusually oriented toward a high-continuity primary partnership: substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, sexuality, family life, ordinary tasks, and repair. This should not be interpreted as fusion or loss of individual identity. The important signal is that both partners naturally want the relationship to receive a large share of ordinary life.
 
