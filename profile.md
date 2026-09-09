@@ -1,32 +1,22 @@
 # Mr. River
 
-## Warm, Vital Renaissance Boyfriend
+## IN MY OWN WORDS
+
+I want to swing on swings while geeking out about how children flourish and what makes relationships work... then challenge each other on the pickleball court. Let's laugh till we cry over simple, goofy things. I'm as drawn to warmth and affection as I am to a great conversation.
+
+I’m especially drawn to a woman who wants lots of time to enjoy, discover and appreciate each other, gets genuinely excited about things, and values children and family life.
+
+### A perfect day for me…
+
+Making breakfast, getting outside to play something or get in the water, losing track of time talking and laughing, playing some music, and having nowhere else we need to be.
+
+<p align="center"><img src="assets/mr-river-01-kitchen-selfie.jpg" alt="" width="420"></p>
 
 **48 · Kansas City area · software architect · musician · lifelong athlete**
 
-**Deep, playful, physically alive, generative, and built for unusually close everyday partnership.**
-
-<p align="center"><img src="assets/mr-river-01-kitchen-selfie.jpg" alt="Mr. River smiling in a kitchen and desk setting" width="420"></p>
-
-## THE 60-SECOND VERSION
-### Swings, rabbit holes, and nowhere else to be
-
-I want to swing on swings while geeking out about how children flourish and what makes relationships work, then challenge each other on the pickleball or tennis court.
-
-I want to laugh until we lose track of time over simple, goofy things.
-
-I’m as drawn to warmth and affection as I am to a great conversation.
-
-I’m especially drawn to a woman who wants lots of time to enjoy, discover and appreciate each other, gets genuinely excited about things, stays alive in both mind and body, and wants a relationship with enough room to become a real part of everyday life.
-
-The relationship I’m looking for is not two excellent independent lives that happen to intersect a few evenings each week. I want a lot of **us**.
-
-Not fusion. Not compulsory togetherness. Two people who remain fully themselves and keep turning toward each other because they genuinely like sharing life.
-
-<p align="center"><img src="assets/mr-river-02-waterski.svg" alt="Mr. River waterskiing" width="420"></p>
-
-## ABOUT
 ### A dating profile, except I gave my AI way too much information
+
+👆 **That part was me.** I’ll add more in my own words over time. For now, I gave my AI way too much information and asked it to help with the rest.
 
 Hi, I’ll go by Mr. River here. 🙂 I’m 48, a software architect, a musician, and a lifelong athlete in the Kansas City area. I spend a lot of time thinking about people, relationships, children, systems, and what actually makes a life good.
 
@@ -38,7 +28,9 @@ Over the years I’ve written a lot about my life: parenting, relationships, wor
 
 This page is the result. It is partly me and partly an organized synthesis of things I have actually said and written. I’ve reviewed it, corrected it, and expect it to keep evolving as I understand myself better.
 
-My AI’s current shorthand for me is **warm, vital Renaissance boyfriend**.
+#### My AI’s shorthand for me: “warm, vital Renaissance boyfriend”
+
+**Deep, playful, physically alive, generative, and built for unusually close everyday partnership.**
 
 That is not meant as a résumé line. It is just a compact way of saying that I seem to be happiest where several registers overlap: warmth and affection, curiosity and depth, physical aliveness and play, family life, music, work I care about, and a relationship that gets a large share of ordinary life.
 
@@ -47,6 +39,8 @@ That is not meant as a résumé line. It is just a compact way of saying that I 
 The substance is farther along than the presentation. I wanted to get the useful part online instead of waiting until I had a polished personal website.
 
 I’ve added a few real-life photos, and I may eventually add a short video too.
+
+<p align="center"><img src="assets/mr-river-02-waterski.svg" alt="Mr. River waterskiing" width="420"></p>
 
 ## ORDINARY LIFE
 ### This is actually the good part
