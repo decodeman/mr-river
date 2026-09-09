@@ -1,11 +1,14 @@
 {
-  "profile_version": "0.8-public-mirror",
+  "profile_version": "0.9-public-mirror",
   "updated": "2026-09-08",
   "public_name": "Mr. River",
-  "headline": "Warm, Vital Renaissance Boyfriend",
+  "headline": "Mr. River",
+  "ai_shorthand": "warm, vital Renaissance boyfriend",
   "summary": "Deep, playful, physically alive, generative, and built for unusually close everyday partnership.",
   "human_presentation": {
-    "lead_section": "The 60-second version",
+    "lead_section": "In my own words",
+    "own_words_first": true,
+    "ai_assisted_remainder_disclosed": true,
     "parenthood_disclosure": "kept truthful and explicit in the later Family and Practical Life sections rather than used as the opening identity label"
   },
   "demographics": {
