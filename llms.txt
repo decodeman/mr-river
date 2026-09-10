@@ -1,6 +1,6 @@
 # Mr. River — AI-readable dating profile
 
-Profile version: 0.10
+Profile version: 0.11
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
