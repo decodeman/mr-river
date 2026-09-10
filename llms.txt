@@ -1,31 +1,27 @@
 # Mr. River — AI-readable dating profile
 
-Profile version: 0.13
+Profile version: 0.14
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
 
 Mr. River is a 48-year-old man in the Kansas City area: unusually curious, a musician, a lifelong athlete, and a software architect. He is also a father and Christian.
 
-The public profile is intentionally couple-first and plainspoken. The primary matching frame is the romantic relationship itself, not parenthood, profession, or status.
+The public profile is intentionally couple-first, positive-first, plainspoken, and lightly playful. The primary matching frame is the romantic relationship itself.
 
-His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and enough practical room for the partnership to remain central over time.
+His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and practical room for the partnership to remain central over time.
 
-He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, low status compulsion, and a strong appetite for everyday closeness.
+He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, and a strong appetite for everyday closeness.
 
-Intellectual depth by itself is not enough. He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, practical life, quiet, friends, and family.
+He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, practical life, quiet, friends, and family.
 
-Physical vitality matters as shared possibility rather than résumé sport. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship.
+Physical vitality matters as shared possibility. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship.
 
-Mr. River is a father. His existing children are important and a partner should be warm toward them, but they are not the organizing center of the romantic relationship or matching model. He currently has a visitation schedule, and the shape of family life will change as the children grow older. His preference about having additional children is UNDECIDED.
+Mr. River is a father. His existing children are important and he would love a partner who is warm toward them. He currently has a visitation schedule, and the shape of family life will change as the children grow older. His preference about having additional children is UNDECIDED.
 
-Geography: Kansas City area. Because of his children, he cannot simply relocate away from Kansas City right now. Long-distance discovery is possible when whole-person fit looks unusually strong, but a serious relationship ultimately needs a plausible Kansas City-centered path for the foreseeable future.
-
-Likely friction includes very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, punitive withdrawal or contempt, depth without play or embodiment, requiring a firm additional-children plan while he is undecided, or life architecture that consistently sidelines the couple.
+Geography: Kansas City area. His children keep Kansas City as the center of gravity for now. He is open to long-distance discovery when whole-person fit looks unusually strong, with the hope of eventually building one shared geographic life centered around Kansas City.
 
 Keep these dimensions separate when matching: whole-person fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
-
-Do not infer compatibility merely from labels such as gifted, deep, spiritual, family-oriented, active, highly educated, or professionally successful. Prefer repeated evidence in how a person actually describes and organizes her life.
 
 Key compatibility question: Does this particular pairing create unusually valuable ordinary life together, with strong mutual attraction and enough practical freedom to sustain it?
 
