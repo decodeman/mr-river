@@ -1,5 +1,5 @@
 {
-  "profile_version": "0.13-public-mirror",
+  "profile_version": "0.14-public-mirror",
   "updated": "2026-09-10",
   "public_name": "Mr. River",
   "headline": "48 · Kansas City · curious · musician · lifelong athlete",
@@ -7,7 +7,7 @@
   "human_presentation": {
     "own_words_before_ai_synthesis": true,
     "ai_assisted_remainder_disclosed": true,
-    "presentation_strategy": "couple-first, plainspoken, low-theater; family is important context but not the primary organizing frame",
+    "presentation_strategy": "couple-first, positive-first, plainspoken, lightly playful; family is important context rather than the primary organizing frame",
     "self_branding": "minimal"
   },
   "demographics": {
@@ -34,7 +34,7 @@
     "type": "long-term shared-life partnership",
     "high_continuity": true,
     "couple_centrality": "the romantic dyad is the primary enduring relationship and should receive substantial ordinary-life attention",
-    "existing_family_alignment": "a partner should be genuinely warm toward his existing children and family life without family becoming the center of the matching model",
+    "existing_family_alignment": "a partner should be genuinely warm toward his existing children and family life",
     "additional_children_preference": "undecided",
     "eventual_geographic_convergence": "Kansas City-centered path required for the foreseeable future",
     "distance_discovery": "open when whole-person fit appears unusually strong"
@@ -61,7 +61,6 @@
     "emotional generosity and appreciation",
     "stability and repair",
     "physical vitality and shared movement",
-    "low dependence on status theater",
     "grounded depth that returns to lived life",
     "genuine warmth toward the people important to him, including his children"
   ],
@@ -78,7 +77,7 @@
     "life architecture that consistently sidelines the couple"
   ],
   "family_context": {
-    "existing_children": "important part of his life but not the organizing center of the romantic relationship",
+    "existing_children": "important part of his life",
     "current_schedule": "visitation schedule",
     "time_horizon": "the shape of family life will change as the children grow older",
     "additional_children": "undecided"
