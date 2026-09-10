@@ -58,7 +58,7 @@ He is happiest when partnership feels like a place both people naturally live.
 
 He is openly affectionate and loves affection coming back toward him.
 
-Hugging. Kissing. Curling up together. Touching in passing. Teasing. Appreciation said out loud. Sexuality that belongs naturally inside the larger language of affection.
+Hugging. Kissing. Curling up together. Touching in passing. Teasing. Appreciation said out loud. A warm, playful sexuality that grows naturally out of all that affection.
 
 He wants both people to bring energy into the relationship: questions, plans, affection, repair, play, ideas, intimacy, appreciation, and curiosity.
 
@@ -78,7 +78,7 @@ Fascination is attractive to him. So is a lively mind that keeps generating new 
 
 He is especially drawn to thought that eventually becomes something: a choice, a relationship, a project, a better question, an experiment, a way of treating someone, or a different way of living.
 
-He also wants range. Depth can turn into laughter, movement, affection, sex, music, dinner, quiet, practical life, and family. That movement between registers feels natural to him.
+He also wants range. Depth can turn into laughter, movement, affection, music, dinner, quiet, practical life, and family. That movement between registers feels natural to him.
 
 ## PLAY & PHYSICAL LIFE
 
@@ -134,7 +134,7 @@ He would love a woman who can be genuinely warm toward his existing family world
 
 He is **undecided about having additional children**.
 
-What he knows more clearly is that he wants both family and **us**. He wants the couple itself to continue receiving real attention: affection, curiosity, sex, play, companionship, discovery, and ordinary time together.
+What he knows more clearly is that he wants both family and **us**. He wants the couple itself to continue receiving real attention: affection, curiosity, play, companionship, intimacy, discovery, and ordinary time together.
 
 ## FAITH, GOODNESS & WONDER
 
@@ -166,7 +166,7 @@ Work we care about.
 
 A conversation that keeps restarting all day.
 
-Music sometimes. Exercise. Dinner. Affection. Sex. Friends. Quiet. Family when family is around.
+Music sometimes. Exercise. Dinner. Affection and intimacy. Friends. Quiet. Family when family is around.
 
 One of us becoming fascinated by something and pulling the other into it.
 
