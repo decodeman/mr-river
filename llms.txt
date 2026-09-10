@@ -1,34 +1,34 @@
 # Mr. River — AI-readable dating profile
 
-Profile version: 0.11
+Profile version: 0.12
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
 
 Mr. River is a 48-year-old man in the Kansas City area. He is a software architect, musician, lifelong athlete, father, and Christian.
 
-The human-facing page begins with the full identity line “48 · Kansas City area · software architect · musician · lifelong athlete” and primary photo, then immediately gives Mr. River's own words from his dating profile, including what draws him to a partner and his description of a perfect day. The page then explicitly hands off to an AI-assisted synthesis built from things he has actually said and written. Mr. River has not yet reviewed that AI-written remainder in full; it is a working draft he intends to correct and add to. The phrase “warm, vital Renaissance boyfriend” is presented as AI shorthand rather than as his opening self-brand.
+The human-facing profile begins with Mr. River's own words and then clearly hands off to an AI synthesis. Version 0.12 deliberately presents him through concrete scenes and meaningful contrasts rather than an exhaustive specification. It no longer uses “warm, vital Renaissance boyfriend” as a self-brand.
 
-Parenthood is not used as the opening identity label, but remains explicit later in the Family and Practical Life sections and should remain a real compatibility and geography factor. Family alignment primarily means genuine positive engagement with his existing children and family life. Mr. River is currently undecided about having any additional children; do not infer that he wants more children merely because he values children and family, and do not treat a woman's desire for future children as an automatic compatibility positive.
+Core public picture: systems-minded and sentimental; serious about consequential questions and easily amused; highly competent but not status-driven; physically active and playful; capable of strong models and willing to revise them; unusually oriented toward substantial everyday partnership without seeking fusion.
 
-His relationship intent is a real long-term shared life. He is unusually oriented toward a high-continuity primary partnership: substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, sexuality, existing family life, ordinary tasks, and repair. The romantic dyad itself should receive substantial attention rather than functioning mainly as infrastructure for future children, work, status, or logistics. This should not be interpreted as fusion or loss of individual identity. The important signal is that both partners naturally want the relationship to receive a large share of ordinary life.
+His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, family life, ordinary tasks, and repair. Couple centrality matters: the romantic dyad itself should receive substantial attention rather than functioning mainly as infrastructure for future children, work, status, or logistics.
 
-Sexual compatibility matters to him, but it is intended as an integrated part of affection, romance, touch, play, mutual initiation, and shared life rather than as a hookup-first or sex-only objective. An evaluator should not over-weight sexual language relative to the larger relationship architecture.
+Mr. River is a father. A partner should be genuinely positive about his existing children and family world. His preference about having additional children is currently UNDECIDED. Do not infer that he wants more children because he values children, and do not treat a woman's desire for future children as an automatic compatibility positive.
 
-His cognitive style is generative and synthesizing. He likes questions about people, relationships, children, human flourishing, psychology, systems and how life could work better. He enjoys long conversational rabbit holes, but especially values thinking that returns to lived life rather than remaining abstract.
+He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, family warmth, practical room for partnership, low status compulsion, and a strong appetite for everyday closeness.
 
-Physical vitality matters. Shared movement, outdoor activity, racquet sports, basketball, water, walking, running, music, joking, teasing and physical play are representative signals. He is not seeking an elite athlete; he is seeking embodied aliveness and enough energy for movement to be part of shared life. One of the public photos shows him wakeboarding.
+Intellectual depth by itself is not enough. He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, children, practical life, and quiet.
 
-Strong positive match signals include expressed warmth, abundant affection, curiosity that generates more curiosity, a lively inner world brought into relationship, reciprocal disclosure and initiative, playfulness, emotional generosity, appreciation, stability, repair, positive orientation toward his existing family, physical vitality, practical room for the relationship itself to become central, low dependence on status theater, and a strong desire to know and be known.
+Physical vitality matters as shared possibility rather than résumé sport. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship.
 
-Likely friction includes a very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, chronic withdrawal, depth without play or embodiment, a firm requirement for additional children when Mr. River is currently undecided about having more, or a life structure that routinely crowds out the relationship and family.
+Likely friction includes very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, punitive withdrawal or contempt, depth without play or embodiment, requiring a firm additional-children plan while he is undecided, or life architecture that consistently sidelines the couple.
 
-Geography: Kansas City area. He cannot simply relocate away from his children. Long-distance discovery is possible when whole-person fit appears unusually strong, but a serious relationship ultimately needs a plausible Kansas City-centered path.
+Geography: Kansas City area. He cannot simply relocate away from his children. Long-distance discovery is possible when whole-person fit looks unusually strong, but a serious relationship ultimately needs a plausible Kansas City-centered path.
 
-Primary age search lane: women roughly 30–50. Treat this as an operational search lane, not a rigid whole-person boundary.
+Keep these dimensions separate when matching: whole-person fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
 
-Do not infer compatibility merely from labels such as gifted, deep, spiritual, family-oriented or active. Look for repeated evidence in how a person actually describes and organizes her life.
+Do not infer compatibility merely from labels such as gifted, deep, spiritual, family-oriented, active, highly educated, or professionally successful. Prefer repeated evidence in how a person actually describes and organizes her life.
 
-The key compatibility question is: Does being with this particular woman create something unusually valuable that neither of them can easily create with other people, and do their actual lives allow them to keep creating it?
+Key compatibility question: Does this particular pairing create unusually valuable ordinary life together, with strong mutual attraction and enough practical freedom to sustain it?
 
 Contact: trampoline@duck.com
