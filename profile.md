@@ -1,6 +1,6 @@
 # Mr. River
 
-**48 · Kansas City area · software architect · musician · lifelong athlete**
+**48 · Kansas City · curious · musician · lifelong athlete**
 
 <p align="center"><img src="assets/mr-river-01-kitchen-selfie.jpg" alt="" width="420"></p>
 
