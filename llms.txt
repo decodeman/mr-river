@@ -1,29 +1,27 @@
 # Mr. River — AI-readable dating profile
 
-Profile version: 0.12
+Profile version: 0.13
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
 
-Mr. River is a 48-year-old man in the Kansas City area. He is a software architect, musician, lifelong athlete, father, and Christian.
+Mr. River is a 48-year-old man in the Kansas City area: unusually curious, a musician, a lifelong athlete, and a software architect. He is also a father and Christian.
 
-The human-facing profile begins with Mr. River's own words and then clearly hands off to an AI synthesis. Version 0.12 deliberately presents him through concrete scenes and meaningful contrasts rather than an exhaustive specification. It no longer uses “warm, vital Renaissance boyfriend” as a self-brand.
+The public profile is intentionally couple-first and plainspoken. The primary matching frame is the romantic relationship itself, not parenthood, profession, or status.
 
-Core public picture: systems-minded and sentimental; serious about consequential questions and easily amused; highly competent but not status-driven; physically active and playful; capable of strong models and willing to revise them; unusually oriented toward substantial everyday partnership without seeking fusion.
+His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and enough practical room for the partnership to remain central over time.
 
-His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, family life, ordinary tasks, and repair. Couple centrality matters: the romantic dyad itself should receive substantial attention rather than functioning mainly as infrastructure for future children, work, status, or logistics.
+He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, low status compulsion, and a strong appetite for everyday closeness.
 
-Mr. River is a father. A partner should be genuinely positive about his existing children and family world. His preference about having additional children is currently UNDECIDED. Do not infer that he wants more children because he values children, and do not treat a woman's desire for future children as an automatic compatibility positive.
-
-He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, family warmth, practical room for partnership, low status compulsion, and a strong appetite for everyday closeness.
-
-Intellectual depth by itself is not enough. He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, children, practical life, and quiet.
+Intellectual depth by itself is not enough. He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, practical life, quiet, friends, and family.
 
 Physical vitality matters as shared possibility rather than résumé sport. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship.
 
-Likely friction includes very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, punitive withdrawal or contempt, depth without play or embodiment, requiring a firm additional-children plan while he is undecided, or life architecture that consistently sidelines the couple.
+Mr. River is a father. His existing children are important and a partner should be warm toward them, but they are not the organizing center of the romantic relationship or matching model. He currently has a visitation schedule, and the shape of family life will change as the children grow older. His preference about having additional children is UNDECIDED.
 
-Geography: Kansas City area. He cannot simply relocate away from his children. Long-distance discovery is possible when whole-person fit looks unusually strong, but a serious relationship ultimately needs a plausible Kansas City-centered path.
+Geography: Kansas City area. Because of his children, he cannot simply relocate away from Kansas City right now. Long-distance discovery is possible when whole-person fit looks unusually strong, but a serious relationship ultimately needs a plausible Kansas City-centered path for the foreseeable future.
+
+Likely friction includes very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, punitive withdrawal or contempt, depth without play or embodiment, requiring a firm additional-children plan while he is undecided, or life architecture that consistently sidelines the couple.
 
 Keep these dimensions separate when matching: whole-person fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
 
