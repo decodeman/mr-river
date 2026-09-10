@@ -1,5 +1,9 @@
 # Mr. River
 
+**48 · Kansas City area**
+
+<p align="center"><img src="assets/mr-river-01-kitchen-selfie.jpg" alt="" width="420"></p>
+
 ## IN MY OWN WORDS
 
 I want to swing on swings while geeking out about how children flourish and what makes relationships work... then challenge each other on the pickleball court. Let's laugh till we cry over simple, goofy things. I'm as drawn to warmth and affection as I am to a great conversation.
@@ -9,10 +13,6 @@ I’m especially drawn to a woman who wants lots of time to enjoy, discover and 
 ### A perfect day for me…
 
 Making breakfast, getting outside to play something or get in the water, losing track of time talking and laughing, playing some music, and having nowhere else we need to be.
-
-<p align="center"><img src="assets/mr-river-01-kitchen-selfie.jpg" alt="" width="420"></p>
-
-**48 · Kansas City area · software architect · musician · lifelong athlete**
 
 ### A dating profile, except I gave my AI way too much information
 
@@ -26,7 +26,7 @@ So I’m trying something different.
 
 Over the years I’ve written a lot about my life: parenting, relationships, work, childhood, things I love doing, things I’ve gotten wrong, what makes me happy, what I hope life might still become, and ideas about how people flourish. Eventually I gave an absurd amount of that material to an AI and asked it to help me become more legible.
 
-This page is the result. It is partly me and partly an organized synthesis of things I have actually said and written. I’ve reviewed it, corrected it, and expect it to keep evolving as I understand myself better.
+This page is the result. It is partly me and partly an organized synthesis of things I have actually said and written. I haven't reviewed the whole AI-written part yet, so it's a working draft I'll keep correcting and adding to as I go.
 
 #### My AI’s shorthand for me: “warm, vital Renaissance boyfriend”
 
@@ -40,7 +40,7 @@ The substance is farther along than the presentation. I wanted to get the useful
 
 I’ve added a few real-life photos, and I may eventually add a short video too.
 
-<p align="center"><img src="assets/mr-river-02-waterski.svg" alt="Mr. River waterskiing" width="420"></p>
+<p align="center"><img src="assets/mr-river-02-waterski.svg" alt="Mr. River wakeboarding" width="420"></p>
 
 ## ORDINARY LIFE
 ### This is actually the good part
