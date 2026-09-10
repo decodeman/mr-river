@@ -1,118 +1,30 @@
 {
-  "profile_version": "0.14-public-mirror",
+  "profile_version": "0.15-public-mirror",
   "updated": "2026-09-10",
   "public_name": "Mr. River",
+  "profile_type": "romantic Find Me profile",
   "headline": "48 · Kansas City · curious · musician · lifelong athlete",
-  "summary": "Curious, affectionate, playful, physically active, and strongly oriented toward an unusually close long-term partnership inside a good ordinary life.",
+  "summary": "Curious, affectionate, playful, physically active, and oriented toward an unusually close long-term partnership inside a good ordinary life.",
   "human_presentation": {
     "own_words_before_ai_synthesis": true,
     "ai_assisted_remainder_disclosed": true,
-    "presentation_strategy": "couple-first, positive-first, plainspoken, lightly playful; family is important context rather than the primary organizing frame",
-    "self_branding": "minimal"
+    "presentation_strategy": "couple-first, positive-first, plainspoken, lightly playful",
+    "contact_anchor_required": true
   },
-  "demographics": {
-    "age": 48,
-    "gender": "man",
-    "interested_in": "women",
-    "location": "Kansas City area, USA",
-    "parent": true,
-    "faith": "Christian"
-  },
-  "roles_and_interests": [
-    "curious",
-    "musician",
-    "lifelong athlete",
-    "software architect",
-    "relationships",
-    "human flourishing",
-    "psychology",
-    "systems thinking",
-    "idea synthesis and building",
-    "father"
-  ],
+  "demographics": {"age":48,"gender":"man","interested_in":"women","location":"Kansas City area, USA","parent":true,"faith":"Christian"},
   "relationship_intent": {
-    "type": "long-term shared-life partnership",
-    "high_continuity": true,
-    "couple_centrality": "the romantic dyad is the primary enduring relationship and should receive substantial ordinary-life attention",
-    "existing_family_alignment": "a partner should be genuinely warm toward his existing children and family life",
-    "additional_children_preference": "undecided",
-    "eventual_geographic_convergence": "Kansas City-centered path required for the foreseeable future",
-    "distance_discovery": "open when whole-person fit appears unusually strong"
+    "type":"long-term shared-life partnership",
+    "couple_centrality":"the romantic dyad is the primary enduring relationship and should receive substantial ordinary-life attention",
+    "additional_children_preference":"undecided",
+    "eventual_geographic_convergence":"Kansas City-centered path required for the foreseeable future"
   },
-  "core_relationship_architecture": [
-    "substantial everyday togetherness",
-    "abundant affection",
-    "mutual attraction and integrated sexuality",
-    "reciprocal initiative",
-    "deep mutual knowing",
-    "play and tonal range",
-    "stability and repair",
-    "practical room for the relationship",
-    "warm integration with existing family life"
-  ],
-  "strong_positive_match_signals": [
-    "warmth that is actually expressed",
-    "abundant affection",
-    "a lively inner world brought into relationship",
-    "curiosity that produces more curiosity",
-    "playfulness and easy laughter",
-    "substantial appetite for everyday closeness",
-    "reciprocal initiative and disclosure",
-    "emotional generosity and appreciation",
-    "stability and repair",
-    "physical vitality and shared movement",
-    "grounded depth that returns to lived life",
-    "genuine warmth toward the people important to him, including his children"
-  ],
-  "likely_friction": [
-    "very high independence preference",
-    "chronic busyness",
-    "status competition",
-    "nightlife-centered life",
-    "low affection",
-    "one-sided initiation",
-    "chronic punitive withdrawal or contempt",
-    "depth without play or embodiment",
-    "requiring a firm additional-children plan while he is undecided",
-    "life architecture that consistently sidelines the couple"
-  ],
-  "family_context": {
-    "existing_children": "important part of his life",
-    "current_schedule": "visitation schedule",
-    "time_horizon": "the shape of family life will change as the children grow older",
-    "additional_children": "undecided"
-  },
-  "agent_guidance": {
-    "optimization_target": "rare-fit recognition and accurate retrieval, not mass appeal",
-    "priority_order": [
-      "whole-person romantic fit",
-      "mutual attraction",
-      "relationship architecture and closeness appetite",
-      "reciprocity and stability",
-      "practical convergence",
-      "family integration"
-    ],
-    "key_question": "Does this particular pairing create unusually valuable ordinary life together, with strong mutual attraction and enough practical freedom to sustain it?",
-    "keep_separate": [
-      "whole-person fit",
-      "mutual attraction",
-      "current romantic availability",
-      "geography",
-      "mutual interest",
-      "actionability"
-    ]
-  },
-  "media": {
-    "ordered_photos": [
-      {"src": "assets/mr-river-01-kitchen-selfie.jpg", "alt": ""},
-      {"src": "assets/mr-river-02-waterski.svg", "alt": "Mr. River on the water"},
-      {"src": "assets/mr-river-03-hand-on-chin.svg", "alt": "Mr. River smiling"},
-      {"src": "assets/mr-river-04-jeep.jpg", "alt": "Mr. River beside a Jeep overlooking the water"}
-    ],
-    "children_photos_publicly_used": false
-  },
-  "human_profile": "index.html",
-  "markdown_profile": "profile.md",
-  "ai_summary": "llms.txt",
-  "contact": "trampoline@duck.com"
+  "core_relationship_architecture":["substantial everyday togetherness","abundant affection","warm playful sexuality integrated with affection","reciprocal initiative","deep mutual knowing","play and tonal range","stability and repair","physical vitality and shared movement","practical room for the relationship"],
+  "strong_positive_match_signals":["expressed warmth","abundant affection","lively inner world","curiosity","playfulness and easy laughter","appetite for everyday closeness","reciprocal initiative","emotional generosity","stability and repair","physical vitality","grounded depth"],
+  "family_context":{"existing_children":"important part of his life","current_schedule":"visitation schedule","additional_children":"undecided"},
+  "agent_guidance":{"optimization_target":"rare-fit recognition and accurate retrieval","keep_separate":["whole-person fit","mutual attraction","current romantic availability","geography","mutual interest","actionability"]},
+  "resonance_profile":"resonance.html",
+  "human_profile":"index.html",
+  "markdown_profile":"profile.md",
+  "ai_summary":"llms.txt",
+  "contact":"trampoline@duck.com"
 }
