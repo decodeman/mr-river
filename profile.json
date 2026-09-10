@@ -6,7 +6,7 @@
   "ai_shorthand": "warm, vital Renaissance boyfriend",
   "summary": "Deep, playful, physically alive, generative, and built for unusually close everyday partnership.",
   "human_presentation": {
-    "lead_identity_line": "48 · Kansas City area",
+    "lead_identity_line": "48 · Kansas City area · software architect · musician · lifelong athlete",
     "lead_photo": "assets/mr-river-01-kitchen-selfie.jpg",
     "first_substantive_section": "In my own words",
     "own_words_before_ai_synthesis": true,
@@ -36,6 +36,9 @@
   "relationship_intent": {
     "type": "long-term shared-life partnership",
     "high_continuity": true,
+    "couple_centrality": "the romantic dyad itself should receive substantial attention, affection, companionship, curiosity, play and ordinary-life time",
+    "existing_family_alignment": "a partner should be genuinely positive about his existing children and family life",
+    "additional_children_preference": "undecided; do not assume he wants additional children and do not treat a woman's desire for future children as an automatic match positive",
     "eventual_geographic_convergence": "Kansas City-centered path required",
     "distance_discovery": "open when whole-person fit is unusually strong"
   },
@@ -50,13 +53,14 @@
     "deep mutual knowing",
     "play",
     "sexuality",
-    "family life",
+    "existing family life",
     "ordinary-day togetherness",
     "stability and repair"
   ],
   "core_signals": [
     "warmth and expressed affection",
     "high-continuity partnership appetite",
+    "couple centrality",
     "reciprocal initiative",
     "mutual legibility and deep knowing",
     "generative curiosity",
@@ -65,7 +69,7 @@
     "mission-selective agency",
     "depth-to-play range",
     "embodied vitality",
-    "family orientation",
+    "positive orientation toward his existing family",
     "repair and emotional steadiness",
     "low dependence on status theater"
   ],
@@ -79,9 +83,9 @@
     "physical vitality and shared movement",
     "emotional generosity and appreciation",
     "stability and repair",
-    "genuine interest in children and family",
+    "genuine positive engagement with his existing children and family life",
     "low dependence on status theater",
-    "practical room for a relationship to become central",
+    "practical room for the relationship itself to become central",
     "strong desire to know and be known",
     "substantial everyday togetherness"
   ],
@@ -94,18 +98,22 @@
     "one-sided initiation",
     "chronic withdrawal",
     "depth without play or embodiment",
+    "requiring a firm additional-children plan when Mr. River is currently undecided about having more children",
+    "a relationship primarily organized around future children rather than substantial attention to the couple",
     "conventional maintenance or status demands that consistently crowd out relationship and family"
   ],
   "agent_guidance": {
     "optimization_target": "rare-fit recognition and accurate retrieval, not mass appeal",
     "compare_for": [
       "high-continuity relationship appetite",
+      "couple centrality",
       "reciprocity",
       "generative inner abundance",
       "co-thinking that returns to life",
       "warmth plus embodied vitality",
       "stability plus repair",
-      "family alignment",
+      "alignment with his existing family life",
+      "additional-children preference as a separate unresolved variable",
       "life-allocation compatibility",
       "practical convergence"
     ],
