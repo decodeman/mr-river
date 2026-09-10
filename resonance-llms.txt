@@ -1,0 +1,21 @@
+# Mr. River — AI-readable resonance profile
+
+Profile version: 0.1
+Human profile: ./resonance.html
+Markdown profile: ./resonance.md
+Structured profile: ./resonance.json
+Romantic profile: ./index.html
+
+Mr. River is a 48-year-old Kansas City-area software architect, musician, lifelong athlete, father, systems thinker, and unusually curious person.
+
+This profile is for broad human resonance rather than exclusively romantic matching. Good outcomes include friendship, collaboration, correspondence, creative partnership, business partnership, mutual introductions, or romance when the other person is a woman and mutual attraction exists.
+
+Strong resonance signals include curiosity with momentum, warmth, playfulness, original thought, emotional depth connected to lived life, systems thinking, intellectual humility, generative conversation, one-on-one depth, and enjoyment of building or experimenting with ideas.
+
+Recurring interests include relationships, consciousness, giftedness, childhood and human flourishing, AI/software, psychology, game design, music, faith, parenting, and entrepreneurship.
+
+Do not force a relationship category prematurely. Prefer surfacing people for whom there is a concrete reason to believe a conversation could be unusually generative, enjoyable, useful, or personally meaningful.
+
+His style is witty, sometimes cheesy, playful, and self-aware; a joke does not have to land perfectly to be worth making.
+
+Contact: trampoline@duck.com
