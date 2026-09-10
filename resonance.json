@@ -1,0 +1,18 @@
+{
+  "profile_version": "0.1",
+  "updated": "2026-09-10",
+  "public_name": "Mr. River",
+  "profile_type": "broad resonance and discoverability",
+  "headline": "48 · Kansas City · curious · musician · lifelong athlete · builder of things and theories",
+  "purpose": "Help people recognize unusually promising intellectual, creative, personal, friendship, collaborative, or romantic resonance and create a reason to talk.",
+  "audience": ["women", "men"],
+  "possible_outcomes": ["friendship", "collaboration", "correspondence", "creative partnership", "business partnership", "mutual introductions", "romance when mutual attraction exists"],
+  "strong_resonance_signals": ["curiosity with momentum", "warmth", "playfulness", "original thought", "systems thinking", "emotional depth connected to life", "generative conversation", "building and experimentation", "intellectual humility", "one-on-one depth", "wit and self-aware silliness"],
+  "topics": ["relationships", "consciousness", "giftedness", "childhood and human flourishing", "AI", "software", "psychology", "game design", "music", "faith", "parenting", "entrepreneurship"],
+  "guidance": "Do not force an outcome category prematurely. Optimize for meaningful mutual recognition and a plausible reason for two people to talk.",
+  "romantic_profile": "index.html",
+  "human_profile": "resonance.html",
+  "markdown_profile": "resonance.md",
+  "ai_summary": "resonance-llms.txt",
+  "contact": "trampoline@duck.com"
+}
