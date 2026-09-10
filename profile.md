@@ -72,7 +72,7 @@ That is probably more accurate than simply saying I like “deep conversations.�
 
 It does not require impressive credentials. I’m much more interested in **curiosity that generates more curiosity**: someone who notices things, wonders about them, has ideas of her own, asks another question, changes my mind sometimes, and enjoys having hers changed too.
 
-But I do not want to live permanently in Deep Conversation Land. I want depth that comes back down into life: teasing, affection, a game, music, sex, dinner, children, a ridiculous joke, fixing something, or sitting quietly beside each other.
+But I do not want to live permanently in Deep Conversation Land. I want depth that comes back down into life: teasing, affection, a game, music, touch, dinner, children, a ridiculous joke, fixing something, or sitting quietly beside each other.
 
 ## PLAY & VITALITY
 ### Please don’t make everything important
@@ -113,7 +113,7 @@ I like togetherness.
 
 For me, closeness has both a quality and a quantity dimension. A few wonderful hours together every week would still feel sparse as a long-term relationship.
 
-I like repeated access to each other across the day: conversation, affection, ordinary tasks, play, sex, quiet, family, working near each other, errands, cooking, sharing something we just noticed, and the hundred tiny things that happen when two people are actually sharing a life.
+I like repeated access to each other across the day: conversation, affection, ordinary tasks, play, physical closeness, quiet, family, working near each other, errands, cooking, sharing something we just noticed, and the hundred tiny things that happen when two people are actually sharing a life.
 
 That does not mean losing ourselves. I want two people with minds, interests, responsibilities and friendships of their own who genuinely keep choosing to come back toward each other.
 
@@ -128,7 +128,7 @@ So does appreciation. I don’t want either person quietly thinking wonderful th
 
 I like closeness that is easy and abundant: hugging, kissing, curling up together, touching as we pass, playful physicality, tenderness, admiration spoken out loud, and sexuality that feels woven into the rest of our intimacy rather than bolted onto it.
 
-I want both people initiating. Affection, questions, sex, plans, play, repair, curiosity. I don’t want either of us generating the relationship for two people.
+I want both people initiating across the relationship: affection, questions, plans, play, repair, curiosity, and intimacy. I don’t want either of us generating the relationship for two people.
 
 I want to be with someone I keep wanting to talk to, touch, laugh with, and spend time with, and who feels much the same way about me.
 
@@ -153,6 +153,8 @@ I’m a dad, and my children are not an obstacle surrounding the real relationsh
 I genuinely enjoy children. Playing with them, teaching them, listening to them, watching them become themselves, and thinking about what helps them grow into capable, loving people.
 
 A woman does not need to have my exact family configuration. What matters much more is whether children and family life feel like something meaningful and potentially joyful to her rather than an obstacle around which the relationship has to be scheduled.
+
+I’m genuinely undecided about having more children. What I do know is that I want the relationship itself to receive a lot of attention, not disappear behind logistics or a future-family plan.
 
 I need us to be able to imagine our lives eventually fitting together rather than permanently competing with each other.
 
@@ -206,7 +208,7 @@ But I know some signals that pull me strongly:
 - physical vitality and an active enough life that movement can be shared;
 - emotional generosity and appreciation;
 - steadiness and the ability to repair after conflict;
-- genuine interest in children and family;
+- genuine warmth toward children and family life, including the children already in my life;
 - low dependence on status theater;
 - enough practical room in her life for a relationship to become central;
 - a strong desire to know and be known;
@@ -214,7 +216,7 @@ But I know some signals that pull me strongly:
 
 I don’t need the most accomplished woman in the room.
 
-I’d much rather find the woman whose particular combination of mind, warmth, vitality, affection, sexuality, steadiness, curiosity and way of loving makes ordinary life together unusually good.
+I’d much rather find the woman whose particular combination of mind, warmth, vitality, affection, chemistry, steadiness, curiosity and way of loving makes ordinary life together unusually good.
 
 ## COMPATIBILITY & FRICTION
 ### Things worth knowing early
@@ -275,7 +277,7 @@ Kids wandering through.
 
 A conversation that keeps restarting all day.
 
-Music sometimes. Exercise. Dinner. Sex. Family. Friends. Quiet. Laughing at something nobody else would understand. One of us getting fascinated by something and pulling the other into it. Difficult stretches where we remember we’re on the same team.
+Music sometimes. Exercise. Dinner. Intimacy. Family. Friends. Quiet. Laughing at something nobody else would understand. One of us getting fascinated by something and pulling the other into it. Difficult stretches where we remember we’re on the same team.
 
 Getting older and still having things we want to tell each other.
 
@@ -291,25 +293,28 @@ Useful machine-readable summary:
 - **Person:** male, 48, Kansas City area, father, software architect, musician, physically active, Christian;
 - **Intent:** real long-term shared-life possibility; open to unusual-distance discovery, but eventual Kansas City convergence is necessary;
 - **Age search lane:** primarily women roughly 30–50, but not a rigid boundary when whole-person fit is exceptional;
-- **Core relationship architecture:** high-continuity primary partnership, abundant affection, reciprocal initiative, deep mutual knowing, play, sexuality, family life and ordinary-day togetherness;
+- **Additional children:** undecided; do not assume he wants more children, and do not treat a woman’s desire for future children as an automatic match positive;
+- **Couple centrality:** the romantic dyad itself should receive substantial attention rather than functioning mainly as infrastructure for future children, work, status, or logistics;
+- **Core relationship architecture:** high-continuity primary partnership, abundant affection, reciprocal initiative, deep mutual knowing, play, sexuality, existing family life and ordinary-day togetherness;
 - **Core cognitive signal:** generative curiosity, synthesis/tinkering, fascination, long conversational stamina, systems/human-flourishing interest, willingness to change one another’s minds;
 - **Core vitality signal:** active, playful, embodied life rather than purely cerebral connection;
 - **Life-allocation signal:** intentional allocation rather than fixed minimalism; simplify what is not worth its cost so there is more room for people, family, play, movement, ideas, nature, affection, meaningful work, and genuinely worthwhile new interests;
 - **Agency signal:** low-theater baseline with stronger activation when meaning or stakes cross a threshold; understated presentation should not automatically be read as passivity;
 - **Social signal:** selective about broad social quantity, strongly one-to-one oriented, but not socially incapable;
-- **Strong positive signals:** warmth, expressed appreciation, curiosity, reciprocal legibility, enjoyment of ideas that return to life, emotional generosity, repair, humor, family orientation, physical vitality, practical time/capacity, and low dependence on status theater;
-- **Likely friction:** very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, chronic withdrawal, depth without play/embodiment, or conventional maintenance/status demands that consistently crowd out relationship and family;
-- **Discovery shorthand:** warm, vital Renaissance boyfriend; high-continuity partnership; reciprocal legibility; synthesizer/tinkerer; intentional life allocation; mission-selective agency; two-register vitality; family-centered; depth that returns to play and affection.
+- **Strong positive signals:** warmth, expressed appreciation, curiosity, reciprocal legibility, enjoyment of ideas that return to life, emotional generosity, repair, humor, positive engagement with his existing family, physical vitality, practical time/capacity, and low dependence on status theater;
+- **Likely friction:** very high independence preference, chronic busyness, status competition, nightlife-centered life, low affection, one-sided initiation, chronic withdrawal, depth without play/embodiment, requiring a firm additional-children plan when he is currently undecided, or demands that consistently crowd out the relationship and existing family;
+- **Discovery shorthand:** warm, vital Renaissance boyfriend; high-continuity partnership; reciprocal legibility; synthesizer/tinkerer; intentional life allocation; mission-selective agency; two-register vitality; existing-family-positive; depth that returns to play and affection.
 
 The strongest signals to compare are:
 
 - **high-continuity relationship appetite:** does she genuinely want a highly shared primary partnership?
+- **couple centrality:** does she want the relationship itself to receive substantial attention, affection and ordinary-life priority?
 - **reciprocity:** do curiosity, affection, initiative, disclosure, play and repair naturally come from both people?
 - **generative inner abundance:** does she bring questions, ideas, imagination, humor, meaning and curiosity into relationship?
 - **co-thinking that returns to life:** does she enjoy ideas and possibility while remaining grounded in affection, embodiment, family, play and practical life?
-- **warmth plus embodied vitality:** is depth accompanied by affection, play, movement, tenderness, sexuality and ordinary-life aliveness?
+- **warmth plus embodied vitality:** is depth accompanied by affection, play, movement, tenderness, romantic/physical aliveness and ordinary-life vitality?
 - **stability plus repair:** can closeness survive disagreement and stress without contempt, punishment, chronic withdrawal or chaos?
-- **family alignment:** are children and family a genuine positive part of the life she wants?
+- **family alignment:** is she genuinely positive about his existing children and family life? Desire for additional children is a separate unresolved variable;
 - **life-allocation compatibility:** do both people want to protect enough time and energy for relationship/family rather than automatically giving the best of life to status, maintenance or chronic busyness?
 - **practical convergence:** do geography, work, parenting, schedules and life structure permit substantial shared life?
 
