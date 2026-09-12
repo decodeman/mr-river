@@ -7,6 +7,7 @@
 ## IN MY OWN WORDS
 
 Looking for aliveness. Let's swing on swings while geeking out on things like how children flourish and what makes relationships work... then challenge each other on the pickleball court. Let's laugh till we cry over simple, goofy things. I'm drawn to warmth and affection, and great conversation.
+
 I'm especially drawn to a woman who's outdoorsy, active and adventurous, loves thinking deeply together, and wants lots of time to enjoy, discover and appreciate each other.
 
 ### A perfect day for me…
