@@ -6,9 +6,8 @@
 
 ## IN MY OWN WORDS
 
-I want to swing on swings while geeking out about what makes relationships work and how children flourish... then challenge each other on the pickleball court. Let's laugh till we cry over simple, goofy things. I'm as drawn to warmth and affection as I am to a great conversation.
-
-I’m especially drawn to a woman who wants lots of time to enjoy, discover and appreciate each other, gets genuinely excited about things, and values a close shared life.
+Looking for aliveness. Let's swing on swings while geeking out on things like how children flourish and what makes relationships work... then challenge each other on the pickleball court. Let's laugh till we cry over simple, goofy things. I'm drawn to warmth and affection, and great conversation.
+I'm especially drawn to a woman who's outdoorsy, active and adventurous, loves thinking deeply together, and wants lots of time to enjoy, discover and appreciate each other.
 
 ### A perfect day for me…
 
