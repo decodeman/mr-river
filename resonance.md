@@ -14,9 +14,9 @@ Maybe you’re a woman and there’s chemistry. Maybe you’re a guy who thinks 
 
 I’m not trying to decide the category before meeting the person. I’m trying to make it easier for the right people to recognize each other.
 
-### A profile, except I gave my AI way too much information
+### About this profile
 
-👆 **That part was me.** I gave my AI an absurd amount of information about me and told it to help make me legible. So the rest is its synthesis. If it gets too full of itself, blame the machine. :)
+I gave my AI an absurd amount of information about me and asked it to help make me legible. This page is its synthesis. If it gets too full of itself, blame the machine. :)
 
 ---
 
