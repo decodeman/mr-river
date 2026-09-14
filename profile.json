@@ -1,10 +1,10 @@
 {
-  "profile_version": "0.15-public-mirror",
-  "updated": "2026-09-10",
+  "profile_version": "0.17-public-mirror",
+  "updated": "2026-09-14",
   "public_name": "Mr. River",
   "profile_type": "romantic Find Me profile",
   "headline": "48 · Kansas City · curious · musician · lifelong athlete",
-  "summary": "Curious, affectionate, playful, physically active, and oriented toward an unusually close long-term partnership inside a good ordinary life.",
+  "summary": "Curious, affectionate, playful, physically active, and oriented toward an unusually close long-term partnership in which both people bring more life out of the other.",
   "human_presentation": {
     "own_words_before_ai_synthesis": true,
     "ai_assisted_remainder_disclosed": true,
@@ -15,11 +15,12 @@
   "relationship_intent": {
     "type":"long-term shared-life partnership",
     "couple_centrality":"the romantic dyad is the primary enduring relationship and should receive substantial ordinary-life attention",
+    "cohabitation_orientation":"likely shared home, while preserving room for each person to maintain interests, friendships, projects, and occasional solitude",
     "additional_children_preference":"undecided",
     "eventual_geographic_convergence":"Kansas City-centered path required for the foreseeable future"
   },
-  "core_relationship_architecture":["substantial everyday togetherness","abundant affection","warm playful sexuality integrated with affection","reciprocal initiative","deep mutual knowing","play and tonal range","stability and repair","physical vitality and shared movement","practical room for the relationship"],
-  "strong_positive_match_signals":["expressed warmth","abundant affection","lively inner world","curiosity","playfulness and easy laughter","appetite for everyday closeness","reciprocal initiative","emotional generosity","stability and repair","physical vitality","grounded depth"],
+  "core_relationship_architecture":["substantial everyday togetherness","likely shared home","abundant affection","warm playful sexuality integrated with affection","reciprocal initiative","deep mutual knowing","mutual aliveness and discovery","play and tonal range","stability and repair","physical vitality and shared movement","room for individuality inside togetherness","practical room for the relationship"],
+  "strong_positive_match_signals":["expressed warmth","abundant affection","lively inner world","curiosity","playfulness and easy laughter","appetite for everyday closeness","reciprocal initiative","mutual tendency to bring out more life, thought, play and possibility in each other","emotional generosity","stability and repair","physical vitality","grounded depth"],
   "family_context":{"existing_children":"important part of his life","current_schedule":"visitation schedule","additional_children":"undecided"},
   "agent_guidance":{"optimization_target":"rare-fit recognition and accurate retrieval","keep_separate":["whole-person fit","mutual attraction","current romantic availability","geography","mutual interest","actionability"]},
   "resonance_profile":"resonance.html",
