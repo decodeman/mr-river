@@ -46,7 +46,7 @@ Affection. Conversation. Play. Music. Movement. Quiet. Meaning. Work. Friends an
 
 Mr. River likes togetherness.
 
-Two people with their own minds, interests, responsibilities, and friendships who simply prefer to share a lot of ordinary life.
+Two people with their own minds, interests, responsibilities, friendships, and projects who simply prefer to share a lot of ordinary life. He can imagine that meaning a shared home, while still leaving room for each person to wander into something of their own and come back with something new to share.
 
 Talking while making food. Working near each other. Exercise. Affection. Errands. A random observation from the other room. A walk. Intimacy. A ridiculous debate. Family time. Falling asleep together and beginning again the next day.
 
@@ -60,7 +60,7 @@ He is openly affectionate and loves affection coming back toward him.
 
 Hugging. Kissing. Curling up together. Touching in passing. Teasing. Appreciation said out loud. A warm, playful sexuality that grows naturally out of all that affection.
 
-He wants both people to bring energy into the relationship: questions, plans, affection, repair, play, ideas, intimacy, appreciation, and curiosity.
+He especially loves what can happen when two people keep bringing life out of each other. Her question sends his mind somewhere new. His enthusiasm gets her excited about something she hadn't considered. One person's playfulness unlocks the other's. Affection creates more affection. A conversation ends somewhere neither of them could have reached alone.
 
 The simple version is that he wants to keep wanting to talk to you, touch you, laugh with you, discover you, and spend time with you, while you feel much the same way about him.
 
@@ -96,7 +96,7 @@ He likes becoming genuinely knowable and learning another person the same way.
 
 Ask. Reveal. Follow up. Notice. Correct the misunderstanding. Say the thing that matters. Let the other person update her picture of you.
 
-He enjoys the moment when a conversation opens a door neither person expected and both understand something more clearly than before.
+He enjoys the moment when a conversation opens a door neither person expected and both understand something more clearly than before. Even better is discovering sides of each other—and sometimes themselves—that might never have appeared without this particular relationship.
 
 He is willing to be known fairly deeply and is drawn to the same openness in return.
 
@@ -174,9 +174,11 @@ Laughing at something nobody else would understand.
 
 Hard seasons where we remember we are on the same team.
 
-Enough separateness to remain two interesting people. Enough togetherness to actually share a life.
+Enough room to remain two interesting people. Enough togetherness to actually share a life.
 
-Getting older and still having things we want to tell each other.
+And years from now, maybe we're the sun-kissed, gray-haired couple still playing pickleball together and somehow seeming younger than we are—still touching, laughing, discovering things, wanting each other, and having things we can't wait to tell each other.
+
+Getting older together without getting old together.
 
 That is more or less what he is looking for.
 
@@ -195,8 +197,8 @@ Useful public summary:
 
 - **Person:** male, 48, Kansas City area, curious, musician, lifelong athlete, software architect, father, Christian.
 - **Intent:** serious long-term shared-life partnership with the romantic dyad itself as the primary enduring relationship.
-- **Relationship architecture:** unusually high value on substantial everyday togetherness, mutual initiation, affection, reciprocal knowing, couple centrality, grounded curiosity, play, embodied vitality, and practical room for the partnership.
-- **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, emotional generosity, stability/repair, embodied vitality, and a real appetite for everyday closeness.
+- **Relationship architecture:** substantial everyday togetherness, likely including a shared home; mutual initiation; affection; reciprocal knowing; couple centrality; grounded curiosity; play; embodied vitality; room for each person to remain interesting and engaged with life; and a relationship in which both people tend to bring more life out of the other.
+- **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, emotional generosity, stability/repair, embodied vitality, and appetite for everyday closeness.
 - **Family:** existing children are important and should be treated warmly. Additional children: **undecided**.
 - **Important distinction:** intellectual depth alone is not enough; he is especially drawn to women who can move naturally between depth and embodied/light/ordinary life.
 - **Keep separate:** overall fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
