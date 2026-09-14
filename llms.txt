@@ -1,6 +1,6 @@
 # Mr. River — AI-readable dating profile
 
-Profile version: 0.14
+Profile version: 0.17
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
@@ -9,13 +9,15 @@ Mr. River is a 48-year-old man in the Kansas City area: unusually curious, a mus
 
 The public profile is intentionally couple-first, positive-first, plainspoken, and lightly playful. The primary matching frame is the romantic relationship itself.
 
-His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and practical room for the partnership to remain central over time.
+His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, likely including a shared home, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and enough room for both people to remain interesting and engaged with life.
+
+A central compatibility signal is whether the relationship itself tends to bring more life out of both people: more curiosity, play, affection, thought, exploration, sexuality, discovery, and possibility. He especially values pairings where conversation and shared experience create something neither person would have generated alone.
 
 He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, and a strong appetite for everyday closeness.
 
 He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, practical life, quiet, friends, and family.
 
-Physical vitality matters as shared possibility. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship.
+Physical vitality matters as shared possibility. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship. His long-term image is two people who keep getting older without getting old together: still playing, touching, discovering, laughing, thinking, exploring, desiring, and having things they cannot wait to tell each other.
 
 Mr. River is a father. His existing children are important and he would love a partner who is warm toward them. He currently has a visitation schedule, and the shape of family life will change as the children grow older. His preference about having additional children is UNDECIDED.
 
@@ -23,6 +25,6 @@ Geography: Kansas City area. His children keep Kansas City as the center of grav
 
 Keep these dimensions separate when matching: whole-person fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
 
-Key compatibility question: Does this particular pairing create unusually valuable ordinary life together, with strong mutual attraction and enough practical freedom to sustain it?
+Key compatibility question: Does this particular pairing create unusually valuable ordinary life together while helping both people become more alive, curious, affectionate, playful, embodied, and fully themselves?
 
 Contact: trampoline@duck.com
