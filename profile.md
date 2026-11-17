@@ -50,15 +50,17 @@ Two people with their own minds, interests, responsibilities, friendships, and p
 
 Talking while making food. Working near each other. Exercise. Affection. Errands. A random observation from the other room. A walk. Intimacy. A ridiculous debate. Family time. Falling asleep together and beginning again the next day.
 
-For him, closeness has both a quality and a quantity dimension. He thrives on frequent, ordinary access to the person he loves.
+For him, closeness has both a quality and a quantity dimension. He wants enormous amounts of time actively enjoying each other, not simply occupying the same house or working in adjacent rooms. He loves the thought of days filled with conversation, physical play, affection, intimacy, shared discoveries, and little adventures that neither wants to end.
 
-He is happiest when partnership feels like a place both people naturally live.
+He can imagine a life where both people have unusually flexible work and spend much of their time playing, exercising, exploring ideas, laughing, raising children when family is around, making love, or dreaming up things they may never build. Even working fifteen hours a week apiece is a fun possibility to imagine, not a requirement or a plan he expects someone else to fund. He would love to discover their own balance together.
+
+He is happiest when two people keep bringing more life out of each other while building a shared life they are both genuinely excited about.
 
 ## WARMTH, AFFECTION & CHEMISTRY
 
 He is openly affectionate and loves affection coming back toward him.
 
-Hugging. Kissing. Curling up together. Touching in passing. Teasing. Appreciation said out loud. A warm, playful sexuality that grows naturally out of all that affection.
+Hugging. Kissing. Curling up together. Touching in passing. Teasing. Appreciation said out loud. Frequent, mutually enthusiastic physical and erotic affection, with a warm, playful sexuality that grows naturally out of their closeness.
 
 He especially loves what can happen when two people keep bringing life out of each other. Her question sends his mind somewhere new. His enthusiasm gets her excited about something she hadn't considered. One person's playfulness unlocks the other's. Affection creates more affection. A conversation ends somewhere neither of them could have reached alone.
 
@@ -74,7 +76,7 @@ He can spend an hour talking about what makes a good human life and then be happ
 
 He likes women who notice things, wonder about them, have their own theories, get excited about something and pull him into it, and sometimes change his mind.
 
-Fascination is attractive to him. So is a lively mind that keeps generating new material.
+Fascination is attractive to him. So is a lively mind that keeps generating new material. He loves the thought of playing Star Realms or chess together, chasing a mystery about life, debating an unlikely possibility, or inventing something hypothetical just to see where the conversation goes.
 
 He is especially drawn to thought that eventually becomes something: a choice, a relationship, a project, a better question, an experiment, a way of treating someone, or a different way of living.
 
@@ -112,11 +114,11 @@ He is trying to get better at seeing what is actually there and appreciating it 
 
 ## THE WOMAN WHO TENDS TO CATCH HIS ATTENTION
 
-Warm, expressive, playful women tend to get through quickly.
+Warm, expressive, playful women tend to get through quickly, especially women who are physically active, a little bold, and confident without pretentiousness.
 
 So do women with a lively inner world: someone who gets genuinely excited about things, has ideas and questions of her own, laughs easily, enjoys affection, brings herself toward the relationship, and has enough physical vitality that the two of them can actually do life together.
 
-He is especially interested in a woman who genuinely wants substantial everyday closeness too.
+He is especially interested in a deeply relational woman who genuinely wants substantial everyday closeness too, and who brings her own intellectual liveliness and playful initiative.
 
 Kindness matters. Steadiness matters. Repair matters. Being able to stay connected and curious through disagreement matters.
 
@@ -144,7 +146,7 @@ His path through religion has had a few chapters, and he is most interested in w
 
 Does it make us more loving, honest, grateful, forgiving, and attentive to other people?
 
-Those questions matter to him.
+Those questions matter to him. He is open to a woman whose beliefs are settled, too, provided they can both ask honest questions and explore ideas without feeling threatened.
 
 He is also sentimental. Music, movies, children, beauty, kindness, nostalgia, and tenderness can all get to him.
 
@@ -154,7 +156,7 @@ He lives in the Kansas City area and has an established life there. His children
 
 He is open to discovering an unusually good fit at a distance, with the hope of eventually building one shared geographic life centered around Kansas City.
 
-His work in technology is relatively flexible and home-oriented, which suits him. He likes using that flexibility to create a rich life with plenty of room for partnership.
+His work in technology is relatively flexible and home-oriented, which suits him. He likes using that flexibility to create a rich life with plenty of room for partnership. He sometimes imagines what life might look like if both people worked only fifteen hours a week, leaving more time for each other and everything that makes them feel alive. It is a possibility to explore, not a condition of partnership.
 
 ## US
 
@@ -181,6 +183,10 @@ And years from now, maybe we're the sun-kissed, gray-haired couple still playing
 Getting older together without getting old together.
 
 That is more or less what he is looking for.
+
+## A FEW THINGS I LOVE
+
+[My Favly collection](https://favly.me/rob) is a little window into the music, movies, games, sports, and other things that have stayed with me.
 
 ## SAY HELLO
 
