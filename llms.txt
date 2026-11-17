@@ -1,6 +1,6 @@
 # Mr. River — AI-readable dating profile
 
-Profile version: 0.17
+Profile version: 0.19
 Public human profile: ./index.html
 Markdown profile: ./profile.md
 Structured profile: ./profile.json
@@ -9,17 +9,21 @@ Mr. River is a 48-year-old man in the Kansas City area: unusually curious, a mus
 
 The public profile is intentionally couple-first, positive-first, plainspoken, and lightly playful. The primary matching frame is the romantic relationship itself.
 
-His relationship intent is a real long-term shared life. He wants substantial everyday togetherness, likely including a shared home, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and enough room for both people to remain interesting and engaged with life.
+His relationship intent is a real long-term shared life. He wants enormous amounts of actively shared everyday time, likely including a shared home, abundant affection, reciprocal initiative, deep mutual knowing, play, integrated sexuality, ordinary tasks, stability, repair, and enough room for both people to remain interesting and engaged with life. Rather than an immediate merger, he welcomes six months to a year of increasing closeness when both people freely want the same destination.
 
 A central compatibility signal is whether the relationship itself tends to bring more life out of both people: more curiosity, play, affection, thought, exploration, sexuality, discovery, and possibility. He especially values pairings where conversation and shared experience create something neither person would have generated alone.
 
-He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, and a strong appetite for everyday closeness.
+He is strongly drawn to expressed warmth, affection, playfulness, a lively inner world brought into relationship, generative curiosity, reciprocal disclosure and initiative, emotional generosity, stability and repair, physical vitality, confidence without pretentiousness, and a strong appetite for actively sharing everyday life.
 
 He especially values curiosity that returns to lived life and a woman who can move naturally between consequential thought and laughter, affection, sex, movement, music, practical life, quiet, friends, and family.
 
 Physical vitality matters as shared possibility. He has been an athlete since childhood and wants movement and embodied life to remain part of a shared relationship. His long-term image is two people who keep getting older without getting old together: still playing, touching, discovering, laughing, thinking, exploring, desiring, and having things they cannot wait to tell each other.
 
 Mr. River is a father. His existing children are important and he would love a partner who is warm toward them. He currently has a visitation schedule, and the shape of family life will change as the children grow older. His preference about having additional children is UNDECIDED.
+
+He loves playing Star Realms and chess. Moulin Rouge! (2001) is a confirmed favorite film, especially because Christian is in love with love and cannot help it. These specific favorites may be excellent openings for conversation but do not prove whole-person match. Favorite-item collection: https://favly.me/rob
+
+An imaginary shared life of both partners working around fifteen hours per week is a playful possibility, not an obligation or an expectation of financial dependency. He is drawn to a woman who can enjoy open questioning even if her own spiritual beliefs are more settled.
 
 Geography: Kansas City area. His children keep Kansas City as the center of gravity for now. He is open to long-distance discovery when whole-person fit looks unusually strong, with the hope of eventually building one shared geographic life centered around Kansas City.
 
