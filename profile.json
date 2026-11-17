@@ -1,31 +1,103 @@
 {
-  "profile_version": "0.17-public-mirror",
-  "updated": "2026-09-14",
+  "profile_version": "0.19-public-mirror",
+  "updated": "2026-11-16",
   "public_name": "Mr. River",
   "profile_type": "romantic Find Me profile",
   "headline": "48 · Kansas City · curious · musician · lifelong athlete",
-  "summary": "Curious, affectionate, playful, physically active, and oriented toward an unusually close long-term partnership in which both people bring more life out of the other.",
+  "summary": "Curious, affectionate, playful, athletic, and hoping for unusually abundant and actively shared time in a mutually desired long-term romantic partnership.",
   "human_presentation": {
     "own_words_before_ai_synthesis": true,
     "ai_assisted_remainder_disclosed": true,
     "presentation_strategy": "couple-first, positive-first, plainspoken, lightly playful",
     "contact_anchor_required": true
   },
-  "demographics": {"age":48,"gender":"man","interested_in":"women","location":"Kansas City area, USA","parent":true,"faith":"Christian"},
-  "relationship_intent": {
-    "type":"long-term shared-life partnership",
-    "couple_centrality":"the romantic dyad is the primary enduring relationship and should receive substantial ordinary-life attention",
-    "cohabitation_orientation":"likely shared home, while preserving room for each person to maintain interests, friendships, projects, and occasional solitude",
-    "additional_children_preference":"undecided",
-    "eventual_geographic_convergence":"Kansas City-centered path required for the foreseeable future"
+  "demographics": {
+    "age": 48,
+    "gender": "man",
+    "interested_in": "women",
+    "location": "Kansas City area, USA",
+    "parent": true,
+    "faith": "Christian"
   },
-  "core_relationship_architecture":["substantial everyday togetherness","likely shared home","abundant affection","warm playful sexuality integrated with affection","reciprocal initiative","deep mutual knowing","mutual aliveness and discovery","play and tonal range","stability and repair","physical vitality and shared movement","room for individuality inside togetherness","practical room for the relationship"],
-  "strong_positive_match_signals":["expressed warmth","abundant affection","lively inner world","curiosity","playfulness and easy laughter","appetite for everyday closeness","reciprocal initiative","mutual tendency to bring out more life, thought, play and possibility in each other","emotional generosity","stability and repair","physical vitality","grounded depth"],
-  "family_context":{"existing_children":"important part of his life","current_schedule":"visitation schedule","additional_children":"undecided"},
-  "agent_guidance":{"optimization_target":"rare-fit recognition and accurate retrieval","keep_separate":["whole-person fit","mutual attraction","current romantic availability","geography","mutual interest","actionability"]},
-  "resonance_profile":"resonance.html",
-  "human_profile":"index.html",
-  "markdown_profile":"profile.md",
-  "ai_summary":"llms.txt",
-  "contact":"trampoline@duck.com"
+  "relationship_intent": {
+    "type": "long-term shared-life partnership",
+    "couple_centrality": "both people genuinely want enormous amounts of active shared everyday time, not only proximity while pursuing separate lives",
+    "cohabitation_orientation": "likely shared home, while preserving room for each person to maintain interests, friendships, projects, and occasional solitude",
+    "additional_children_preference": "undecided",
+    "eventual_geographic_convergence": "Kansas City-centered path required for the foreseeable future",
+    "building_pace": "comfortable developing toward this over six months to a year, provided closeness grows reciprocally and freely",
+    "shared_time_vision": "sustained conversation, playful games, exercise, music, affection, making love, parenting when appropriate, dreaming and exploring ideas without requiring those dreams to become projects",
+    "flexible_work_aspiration": "imagines two partners sometimes working as little as fifteen hours a week to create time together; a tentative dream, not a requirement or expectation of financial dependency"
+  },
+  "core_relationship_architecture": [
+    "enormous amounts of actively shared time together",
+    "likely shared home",
+    "abundant affection",
+    "warm playful sexuality integrated with affection",
+    "reciprocal initiative",
+    "deep mutual knowing",
+    "mutual aliveness and discovery",
+    "play and tonal range",
+    "stability and repair",
+    "physical vitality and shared movement",
+    "room for individuality inside togetherness",
+    "practical room for the relationship",
+    "openness to direct questions and different settled faith commitments"
+  ],
+  "strong_positive_match_signals": [
+    "expressed warmth",
+    "abundant affection",
+    "lively inner world",
+    "curiosity",
+    "playfulness and easy laughter",
+    "appetite for everyday closeness",
+    "reciprocal initiative",
+    "mutual tendency to bring out more life, thought, play and possibility in each other",
+    "emotional generosity",
+    "stability and repair",
+    "physical vitality",
+    "grounded depth",
+    "physically active and a little bold",
+    "confidence without pretentiousness",
+    "mutual appetite for substantial, actively shared time",
+    "open curiosity about important life questions"
+  ],
+  "family_context": {
+    "existing_children": "important part of his life",
+    "current_schedule": "visitation schedule",
+    "additional_children": "undecided"
+  },
+  "agent_guidance": {
+    "optimization_target": "rare-fit recognition and accurate retrieval",
+    "keep_separate": [
+      "whole-person fit",
+      "mutual attraction",
+      "current romantic availability",
+      "geography",
+      "mutual interest",
+      "actionability"
+    ]
+  },
+  "resonance_profile": "resonance.html",
+  "human_profile": "index.html",
+  "markdown_profile": "profile.md",
+  "ai_summary": "llms.txt",
+  "contact": "trampoline@duck.com",
+  "exact_taste_signals": {
+    "confirmed_favorite_movie": [
+      {
+        "title": "Moulin Rouge!",
+        "year": 2001,
+        "resonance": "Christian is in love with love and can't help it"
+      }
+    ],
+    "confirmed_favorite_game": [
+      "Star Realms"
+    ],
+    "confirmed_enjoyed_game": [
+      "Chess"
+    ],
+    "discovery_role": "icebreakers and possible uncommon cross-category shared interests, not independent proof of romantic compatibility",
+    "favorites_collection": "https://favly.me/rob"
+  }
 }
