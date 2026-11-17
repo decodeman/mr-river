@@ -54,7 +54,7 @@ For him, closeness has both a quality and a quantity dimension. He wants enormou
 
 He can imagine a life where both people have unusually flexible work and spend much of their time playing, exercising, exploring ideas, laughing, raising children when family is around, making love, or dreaming up things they may never build. Even working fifteen hours a week apiece is a fun possibility to imagine, not a requirement or a plan he expects someone else to fund. He would love to discover their own balance together.
 
-He is happiest when two people keep bringing more life out of each other while building a shared life they are both genuinely excited about.
+He is happiest when two people keep bringing more life out of each other while building a shared life they are both genuinely excited about. He doesn't expect an instant merger: six months or a year of steadily growing closeness is fine if they both freely and enthusiastically want to move toward that kind of life.
 
 ## WARMTH, AFFECTION & CHEMISTRY
 
@@ -186,7 +186,7 @@ That is more or less what he is looking for.
 
 ## A FEW THINGS I LOVE
 
-[My Favly collection](https://favly.me/rob) is a little window into the music, movies, games, sports, and other things that have stayed with me.
+He loves playing Star Realms and chess. One of his favorite movies is *Moulin Rouge!* (2001), especially Christian, who is in love with love and can't help it. [My Favly collection](https://favly.me/rob) is a little window into the music, movies, games, sports, and other things that have stayed with him.
 
 ## SAY HELLO
 
@@ -203,7 +203,7 @@ Useful public summary:
 
 - **Person:** male, 48, Kansas City area, curious, musician, lifelong athlete, software architect, father, Christian.
 - **Intent:** serious long-term shared-life partnership with the romantic dyad itself as the primary enduring relationship.
-- **Relationship architecture:** substantial everyday togetherness, likely including a shared home; mutual initiation; affection; reciprocal knowing; couple centrality; grounded curiosity; play; embodied vitality; room for each person to remain interesting and engaged with life; and a relationship in which both people tend to bring more life out of the other.
+- **Relationship architecture:** enormous amounts of actively shared everyday time, gradually built through freely chosen reciprocity; likely sharing a home; mutual initiation; affection; reciprocal knowing; couple centrality; grounded curiosity; play; embodied vitality; room for each person to remain interesting and engaged with life; and a relationship in which both people tend to bring more life out of the other.
 - **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, emotional generosity, stability/repair, embodied vitality, and appetite for everyday closeness.
 - **Family:** existing children are important and should be treated warmly. Additional children: **undecided**.
 - **Important distinction:** intellectual depth alone is not enough; he is especially drawn to women who can move naturally between depth and embodied/light/ordinary life.
