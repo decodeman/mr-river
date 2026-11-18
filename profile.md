@@ -30,29 +30,15 @@ He builds models quickly and enjoys the moment when reality gives him something 
 
 <p align="center"><img src="assets/mr-river-02-waterski.svg" alt="Mr. River on the water" width="420"></p>
 
-## THE LIFE HE WANTS
-
-His ideal relationship is mostly about the two people in it.
-
-Breakfast. Work that matters enough. A tennis court or lake. Music from somewhere in the house. A conversation that keeps getting interrupted and restarted. Touching each other while making dinner. Laughing at something small. Maybe doing something ambitious. Maybe doing nothing impressive at all.
-
-He likes experiences, and he especially likes ordinary days that feel good while they are happening.
-
-He can get intensely interested in a project or idea and spend a lot of energy on it. He values competence and flexibility largely for the room they create for everything else he cares about.
-
-Affection. Conversation. Play. Music. Movement. Quiet. Meaning. Work. Friends and family. A person he loves nearby.
-
 ## A LOT OF US
 
 Mr. River likes togetherness.
 
-Two people with their own minds, interests, responsibilities, friendships, and projects who simply prefer to share a lot of ordinary life. He can imagine that meaning a shared home, while still leaving room for each person to wander into something of their own and come back with something new to share.
+Two people with their own minds, interests, friendships, and projects who want enormous amounts of time actively enjoying each other. He can imagine a shared home and a life full of conversation, play, affection, and discovery, with room to pursue separate interests and return with something new to share.
 
-Talking while making food. Working near each other. Exercise. Affection. Errands. A random observation from the other room. A walk. Intimacy. A ridiculous debate. Family time. Falling asleep together and beginning again the next day.
+For him, closeness has both a quality and a quantity dimension. Being near each other is good; actively engaging with each other is even better.
 
-For him, closeness has both a quality and a quantity dimension. He wants enormous amounts of time actively enjoying each other, not simply occupying the same house or working in adjacent rooms. He loves the thought of days filled with conversation, physical play, affection, intimacy, shared discoveries, and little adventures that neither wants to end.
-
-He can imagine a life where both people have unusually flexible work and spend much of their time playing, exercising, exploring ideas, laughing, raising children when family is around, making love, or dreaming up things they may never build. Even working fifteen hours a week apiece is a fun possibility to imagine, not a requirement or a plan he expects someone else to fund. He would love to discover their own balance together.
+He can imagine both people having unusually flexible work and spending much of their time playing, exercising, exploring ideas, laughing, making love, or dreaming up things they may never build. Even working fifteen hours a week apiece is a fun possibility, not a requirement. They could discover their own balance together.
 
 He is happiest when two people keep bringing more life out of each other while building a shared life they are both genuinely excited about. He doesn't expect an instant merger: six months or a year of steadily growing closeness is fine if they both freely and enthusiastically want to move toward that kind of life.
 
@@ -62,7 +48,7 @@ He is openly affectionate and loves affection coming back toward him.
 
 Hugging. Kissing. Curling up together. Touching in passing. Teasing. Appreciation said out loud. Frequent, mutually enthusiastic physical and erotic affection, with a warm, playful sexuality that grows naturally out of their closeness.
 
-He especially loves what can happen when two people keep bringing life out of each other. Her question sends his mind somewhere new. His enthusiasm gets her excited about something she hadn't considered. One person's playfulness unlocks the other's. Affection creates more affection. A conversation ends somewhere neither of them could have reached alone.
+He loves when her question sends his mind somewhere new, his enthusiasm sparks hers, and a conversation ends somewhere neither would have reached alone.
 
 The simple version is that he wants to keep wanting to talk to you, touch you, laugh with you, discover you, and spend time with you, while you feel much the same way about him.
 
@@ -87,8 +73,6 @@ He also wants range. Depth can turn into laughter, movement, affection, music, d
 Sports have been part of his life since childhood. Baseball, basketball, tennis, racquet sports, water, running around outside, competition, and movement for the pleasure of it.
 
 He would love a woman who enjoys some version of physical life too: walking, swimming, tennis, paddling, shooting baskets, trying something new, or getting outside together.
-
-He likes a relationship that can move easily between tenderness, silliness, exercise, and serious conversation.
 
 <p align="center"><img src="assets/mr-river-04-jeep.jpg" alt="Mr. River beside a Jeep overlooking the water" width="420"></p>
 
@@ -118,11 +102,9 @@ Warm, expressive, playful women tend to get through quickly, especially women wh
 
 So do women with a lively inner world: someone who gets genuinely excited about things, has ideas and questions of her own, laughs easily, enjoys affection, brings herself toward the relationship, and has enough physical vitality that the two of them can actually do life together.
 
-He is especially interested in a deeply relational woman who genuinely wants substantial everyday closeness too, and who brings her own intellectual liveliness and playful initiative.
+He is especially interested in a deeply relational woman who wants substantial everyday closeness, brings her own ideas and playful initiative, and can stay curious and connected through disagreement.
 
-Kindness matters. Steadiness matters. Repair matters. Being able to stay connected and curious through disagreement matters.
-
-Aliveness is attractive. Warmth toward the people important to him, including family, matters too.
+A big heart is especially attractive when it becomes action. He has been deeply drawn to women who tangibly care for children, people with disabilities, or those with fewer advantages. Helping families flourish, perhaps even helping parents become better parents, strikes him as consequential work. That doesn't mean she needs a particular profession or that either of them must devote every available hour to service. He would love to discover together how to contribute meaningfully while protecting plenty of life for the two of them.
 
 And there is a part no model gets to replace: does this particular woman make him want to move closer?
 
@@ -152,41 +134,19 @@ He is also sentimental. Music, movies, children, beauty, kindness, nostalgia, an
 
 ## PRACTICAL REALITY
 
-He lives in the Kansas City area and has an established life there. His children keep Kansas City as the center of gravity for now.
+He lives in the Kansas City area and needs to remain near his children for roughly the next nine years. After that, he is open to relocating. He is also open to a meaningful connection that begins at a distance, provided they can find a realistic path to sharing everyday life during those years.
 
-He is open to discovering an unusually good fit at a distance, with the hope of eventually building one shared geographic life centered around Kansas City.
-
-His work in technology is relatively flexible and home-oriented, which suits him. He likes using that flexibility to create a rich life with plenty of room for partnership. He sometimes imagines what life might look like if both people worked only fifteen hours a week, leaving more time for each other and everything that makes them feel alive. It is a possibility to explore, not a condition of partnership.
+His technology work is relatively flexible and home-oriented, leaving room for partnership and a life they shape together.
 
 ## US
 
-Breakfast.
-
-Something outside.
-
-Work we care about.
-
-A conversation that keeps restarting all day.
-
-Music sometimes. Exercise. Dinner. Affection and intimacy. Friends. Quiet. Family when family is around.
-
-One of us becoming fascinated by something and pulling the other into it.
-
-Laughing at something nobody else would understand.
-
-Hard seasons where we remember we are on the same team.
-
-Enough room to remain two interesting people. Enough togetherness to actually share a life.
-
-And years from now, maybe we're the sun-kissed, gray-haired couple still playing pickleball together and somehow seeming younger than we are—still touching, laughing, discovering things, wanting each other, and having things we can't wait to tell each other.
+Years from now, maybe they're the sun-kissed, gray-haired couple still playing pickleball together and somehow seeming younger than they are, still touching, laughing, discovering things, wanting each other, and having things they can't wait to tell each other.
 
 Getting older together without getting old together.
 
-That is more or less what he is looking for.
-
 ## A FEW THINGS I LOVE
 
-He loves playing Star Realms and chess. One of his favorite movies is *Moulin Rouge!* (2001), especially Christian, who is in love with love and can't help it. [My Favly collection](https://favly.me/rob) is a little window into the music, movies, games, sports, and other things that have stayed with him.
+He loves playing Star Realms and chess. One of his favorite movies is *Moulin Rouge!* (2001), especially Christian, whose romantic idealism resonates with him. Recently, a woman who understands him particularly well compared him to Orpheus from *Hadestown*. He recognized something of himself in that comparison, too. [My Favly collection](https://favly.me/rob) is a little window into the music, movies, games, sports, and other things that have stayed with him.
 
 ## SAY HELLO
 
@@ -204,8 +164,8 @@ Useful public summary:
 - **Person:** male, 48, Kansas City area, curious, musician, lifelong athlete, software architect, father, Christian.
 - **Intent:** serious long-term shared-life partnership with the romantic dyad itself as the primary enduring relationship.
 - **Relationship architecture:** enormous amounts of actively shared everyday time, gradually built through freely chosen reciprocity; likely sharing a home; mutual initiation; affection; reciprocal knowing; couple centrality; grounded curiosity; play; embodied vitality; room for each person to remain interesting and engaged with life; and a relationship in which both people tend to bring more life out of the other.
-- **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, emotional generosity, stability/repair, embodied vitality, and appetite for everyday closeness.
-- **Family:** existing children are important and should be treated warmly. Additional children: **undecided**.
+- **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, compassion demonstrated through care for vulnerable people, stability/repair, embodied vitality, and appetite for everyday closeness.
+- **Family:** existing children are important and should be treated warmly. Additional children: **undecided**. Geographic constraint: Kansas City area for roughly nine years, open to relocating afterward.
 - **Important distinction:** intellectual depth alone is not enough; he is especially drawn to women who can move naturally between depth and embodied/light/ordinary life.
 - **Keep separate:** overall fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
 
