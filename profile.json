@@ -1,6 +1,6 @@
 {
-  "profile_version": "0.19-public-mirror",
-  "updated": "2026-11-16",
+  "profile_version": "0.21-public-mirror",
+  "updated": "2026-11-22",
   "public_name": "Mr. River",
   "profile_type": "romantic Find Me profile",
   "headline": "48 · Kansas City · curious · musician · lifelong athlete",
@@ -24,7 +24,7 @@
     "couple_centrality": "both people genuinely want enormous amounts of active shared everyday time, not only proximity while pursuing separate lives",
     "cohabitation_orientation": "likely shared home, while preserving room for each person to maintain interests, friendships, projects, and occasional solitude",
     "additional_children_preference": "undecided",
-    "eventual_geographic_convergence": "Kansas City-centered path required for the foreseeable future",
+    "eventual_geographic_convergence": "Remain near his children in Kansas City for roughly nine years; open to relocating afterward; distance initially possible with realistic path to shared everyday life.",
     "building_pace": "comfortable developing toward this over six months to a year, provided closeness grows reciprocally and freely",
     "shared_time_vision": "sustained conversation, playful games, exercise, music, affection, making love, parenting when appropriate, dreaming and exploring ideas without requiring those dreams to become projects",
     "flexible_work_aspiration": "imagines two partners sometimes working as little as fifteen hours a week to create time together; a tentative dream, not a requirement or expectation of financial dependency"
@@ -60,7 +60,9 @@
     "physically active and a little bold",
     "confidence without pretentiousness",
     "mutual appetite for substantial, actively shared time",
-    "open curiosity about important life questions"
+    "open curiosity about important life questions",
+    "shared values expressed in kindness, integrity, nurturing children, helping people flourish, and tangible care for vulnerable people",
+    "warm, curious, mutually constructive relational repair that can create and deepen romantic attraction"
   ],
   "family_context": {
     "existing_children": "important part of his life",
@@ -99,5 +101,9 @@
     ],
     "discovery_role": "icebreakers and possible uncommon cross-category shared interests, not independent proof of romantic compatibility",
     "favorites_collection": "https://favly.me/rob"
-  }
+  },
+  "romantic_attraction_drivers": [
+    "shared values expressed in kindness, integrity, nurturing children, helping people flourish, and tangible care for vulnerable people",
+    "warm, curious, mutually constructive relational repair that can create and deepen romantic attraction"
+  ]
 }
