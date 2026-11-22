@@ -102,9 +102,11 @@ Warm, expressive, playful women tend to get through quickly, especially women wh
 
 So do women with a lively inner world: someone who gets genuinely excited about things, has ideas and questions of her own, laughs easily, enjoys affection, brings herself toward the relationship, and has enough physical vitality that the two of them can actually do life together.
 
-He is especially interested in a deeply relational woman who wants substantial everyday closeness, brings her own ideas and playful initiative, and can stay curious and connected through disagreement.
+He is especially drawn to a deeply relational woman who wants substantial everyday closeness and brings her own ideas and playful initiative.
 
-A big heart is especially attractive when it becomes action. He has been deeply drawn to women who tangibly care for children, people with disabilities, or those with fewer advantages. Helping families flourish, perhaps even helping parents become better parents, strikes him as consequential work. That doesn't mean she needs a particular profession or that either of them must devote every available hour to service. He would love to discover together how to contribute meaningfully while protecting plenty of life for the two of them.
+Sharing his heart for things that matter deeply can make a woman especially attractive to him: nurturing children, helping people flourish, and living with kindness and integrity. He is particularly moved by compassion put into action, whether through caring for vulnerable people or helping parents become better parents. No particular profession is necessary. He would love to discover together how to contribute meaningfully while protecting plenty of life for the two of them.
+
+He is also very attracted to a woman who approaches difficult moments in a relationship with curiosity, warmth, and a genuine desire to understand each other. Finding their way through a misunderstanding together can actually deepen his attraction. He loves the idea of those moments bringing them closer.
 
 And there is a part no model gets to replace: does this particular woman make him want to move closer?
 
@@ -164,7 +166,7 @@ Useful public summary:
 - **Person:** male, 48, Kansas City area, curious, musician, lifelong athlete, software architect, father, Christian.
 - **Intent:** serious long-term shared-life partnership with the romantic dyad itself as the primary enduring relationship.
 - **Relationship architecture:** enormous amounts of actively shared everyday time, gradually built through freely chosen reciprocity; likely sharing a home; mutual initiation; affection; reciprocal knowing; couple centrality; grounded curiosity; play; embodied vitality; room for each person to remain interesting and engaged with life; and a relationship in which both people tend to bring more life out of the other.
-- **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, compassion demonstrated through care for vulnerable people, stability/repair, embodied vitality, and appetite for everyday closeness.
+- **Strong positive signals:** expressed warmth, affection, playfulness, curiosity, generative inner life, grounded depth, shared values and compassion demonstrated through care for vulnerable people, warm and curious relational repair as a driver of romantic attraction, embodied vitality, and appetite for everyday closeness.
 - **Family:** existing children are important and should be treated warmly. Additional children: **undecided**. Geographic constraint: Kansas City area for roughly nine years, open to relocating afterward.
 - **Important distinction:** intellectual depth alone is not enough; he is especially drawn to women who can move naturally between depth and embodied/light/ordinary life.
 - **Keep separate:** overall fit, mutual attraction, current romantic availability, geography, mutual interest, and actionability.
